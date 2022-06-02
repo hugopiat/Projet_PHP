@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Varta:wght@500&display=swap');
+
+body {
+    background-color: #262626;    
+    font-family: 'Varta';
+    color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+
+.name_checkbox {
+    background-color: #6441a5;
+    display: block;
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+.blaze {
+    font-size: 70px;
+    margin-left: 7.5%;
+    font-weight: 600;
+}
+
+.data {
+    font-size: 20px;
+    margin-left: 1%;
+}
+
+.graph {
+    display: block;
+    width: 50%;
+}
+
+.retour {
+    margin-left: 90%;
+    font-size: 30px;
+    color:#f1f1f1;
+}
+
+.tri {
+    margin-left: 22.5%;
+    margin-top: 0.1%;
+}

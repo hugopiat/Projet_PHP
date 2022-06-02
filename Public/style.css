@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Varta:wght@500&display=swap');
+
+body {
+    background-color: #262626;    
+    font-family: 'Varta';
+    color: #f1f1f1;
+    margin: 0;
+    padding: 0;
+}
+
+.haut-de-page {
+    display: block;
+    display: flex;
+    align-items: center;
+}
+
+.bloc-violet {
+    display: flex;
+    align-items: center;
+    background-color: #6441a5;
+    width: 100%;
+}
+
+h1 {
+    font-size: 70px;
+    margin-left: 5%;
+}
+
+h2 {
+    font-size: 24px;
+    margin-left: 0%;
+}
+
+.tri {
+    margin-left: 22.5%;
+    margin-top: 0.1%;
+}
+
+.bloc-streamer-1 {
+    width: 100%;
+    display: block;
+    display: flex;
+}
+
+.bloc-ad {
+    margin-top: 5%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    display: block;  
+    width: 17.5%;
+    height: 17.5%;
+    display: flex;
+    text-align:center;
+}
+
+.bloc-zera {
+    margin-top: 5%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    display: block;   
+    width: 17.5%;
+    height: 17.5%;
+    display: flex;
+    text-align:center;
+}
+
+.bloc-pa {
+    margin-top: 5%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    display: block;   
+    width: 17.5%;
+    height: 17.5%;
+    display: flex;
+    text-align:center;
+}
+
+.bloc-streamer-2 {
+    width: 100%;
+    display: block;
+    display: flex;
+}
+
+.bloc-ponce {
+    margin-top: 5%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    display: block;   
+    width: 17.5%;
+    height: 17.5%;
+    display: flex;
+    text-align:center;
+}
+
+.bloc-myn {
+    margin-top: 5%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    display: block;   
+    width: 17.5%;
+    height: 17.5%;
+    display: flex;
+    text-align:center;
+}
+
+.bloc-kamel {
+    margin-top: 5%;
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    display: block;   
+    width: 17.5%;
+    height: 17.5%;
+    display: flex;
+    text-align:center;
+}
